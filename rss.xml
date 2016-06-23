@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[dcarnes]]></title>
         <description><![CDATA[dcarnes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dcarnes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 14:06:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 23 Jun 2016 19:38:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dcarnes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[So, why do stories work in life and in marketing?]]></title>
+            <description><![CDATA[<p>My wife Lisa had the opportunity to hear actor, storyteller and best-selling author, Matthew Taylor at a story and leadership conference in Vail, Colorado this summer. This is what she had to say about it...</p>]]></description>
+            <link>https://thegrid.ai/dcarnes/so-why-do-stories-work-in-life-and-in-marketing/index.html</link>
+            <guid isPermaLink="false">7038dd9a-ee89-4f76-a95c-713158cbeb60</guid>
+            <pubDate>Thu, 23 Jun 2016 19:38:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Six Weeks to Enlightenment - Week 1]]></title>
             <description><![CDATA[<article><h1>Six Weeks to Enlightenment - Week 1</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7379bd6bcac55748fc7072b9fae53f1d7fed37a8.png"></article>]]></description>
-            <link>undefinedsix-weeks-to-enlightenment-week-1/index.html</link>
+            <link>https://thegrid.ai/dcarnes/six-weeks-to-enlightenment-week-1/index.html</link>
             <guid isPermaLink="false">8c6d539a-ca17-44a9-95ca-a55cee670ba8</guid>
             <pubDate>Thu, 23 Jun 2016 14:06:12 GMT</pubDate>
         </item>
